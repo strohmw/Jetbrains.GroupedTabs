@@ -32,3 +32,8 @@ Settings live under Settings, Tools, GroupedTabs.
 - Show a stable colour stripe, and turn double-click pin on or off.
 - Reset all styles restores the header and file-name styles. The window options stay as they are until you apply them.
 <!-- Plugin description end -->
+
+# JetBrains Marketplace
+GroupedTabs is available on the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/35377-groupedtabs).
+To install, open **Settings, Plugins, Marketplace**, search for GroupedTabs, and select **Install**. You can also download the plugin zip from the Marketplace page and install it with **Settings, Plugins, gear icon, Install Plugin from Disk**.
+GroupedTabs supports JetBrains Rider and IntelliJ IDEA 2026.2 or later.
